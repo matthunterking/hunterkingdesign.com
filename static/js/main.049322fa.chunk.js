@@ -1,0 +1,2 @@
+(this["webpackJsonphunterkingdesign.com"]=this["webpackJsonphunterkingdesign.com"]||[]).push([[0],{3:function(e,n,t){e.exports=t(8)},8:function(e,n,t){"use strict";t.r(n);var r=t(0),l=t.n(r),o=t(2);var c=function(){return l.a.createElement("div",null,l.a.createElement("p",null,"Hello World"))};t.n(o).a.render(l.a.createElement(c,null),document.getElementById("root"))}},[[3,1,2]]]);
+//# sourceMappingURL=main.049322fa.chunk.js.map
